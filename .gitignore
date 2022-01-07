@@ -1,0 +1,8 @@
+/.idea/
+/build/
+/data/
+/dist/
+/simplexample/__pycache__/
+/simple_pytorch_example.egg-info/
+/models/
+/runs/

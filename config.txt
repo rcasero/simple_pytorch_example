@@ -1,0 +1,10 @@
+device = cuda
+epochs = 20
+batch_size = 64
+learning_rate = 1e-3
+validation_ratio = 0.2
+nn = SimpleCNN
+conv_out_features = [8, 16]
+conv_kernel_size = 3
+maxpool_kernel_size = 2
+
